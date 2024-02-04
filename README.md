@@ -88,7 +88,7 @@ Integrate student, security, and admin pages with MongoDB to enhance campus secu
 
 ### 🎨 SafeCampus Student :
 <br />
-<div display="flex">
+<div display="flex" align="center">
     <img src="./assets/student1.jpeg" width="300" alt="Logo">
     <img src="./assets/student2.jpeg" width="300" alt="Logo">
     <img src="./assets/student3.jpeg" width="300" alt="Logo">
@@ -103,7 +103,7 @@ Integrate student, security, and admin pages with MongoDB to enhance campus secu
 
 ### 🎨 SafeCampus Security :
 <br />
-<div display="flex">
+<div display="flex" align="center">
     <img src="./assets/security1.jpeg" width="300" alt="Logo">
     <img src="./assets/security2.jpeg" width="300" alt="Logo">
     <img src="./assets/security3.jpeg" width="300" alt="Logo">
