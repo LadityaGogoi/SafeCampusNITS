@@ -80,21 +80,9 @@ Integrate student, security, and admin pages with MongoDB to enhance campus secu
 </h3>
   <hr />
     <img src="./assets/list.png" alt="Logo">
-<h3 align="center" font-family="Manjari">
-  list of complain, late entry students
-</h3>
     <img src="./assets/addstudent.png" alt="Logo">
-<h3 align="center" font-family="Manjari">
-  Adding a student
-</h3>
     <img src="./assets/notice.png" alt="Logo">
-<h3 align="center" font-family="Manjari">
-  Notice Form
-</h3>
     <img src="./assets/imergency.png" alt="Logo">
-<h3 align="center" font-family="Manjari">
-  Imergency Portal, when somebody seek it
-</h3>
 </div>
 
 <br />
