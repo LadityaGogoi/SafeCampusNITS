@@ -72,13 +72,10 @@ Integrate student, security, and admin pages with MongoDB to enhance campus secu
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
-### 🎨 SafeCampus Admin
+### 🎨 SafeCampus Admin :
+<br />
 <div style="display: flex;">
     <img src="./assets/dashboard.png" alt="Logo">
-<h3 align="center" font-family="Manjari">
-  Dashboard for managing Students
-</h3>
-  <hr />
     <img src="./assets/list.png" alt="Logo">
     <img src="./assets/addstudent.png" alt="Logo">
     <img src="./assets/notice.png" alt="Logo">
@@ -86,9 +83,11 @@ Integrate student, security, and admin pages with MongoDB to enhance campus secu
 </div>
 
 <br />
+<hr />
 <br />
 
-### 🎨 SafeCampus Student
+### 🎨 SafeCampus Student :
+<br />
 <div display="flex">
     <img src="./assets/student1.jpeg" width="300" alt="Logo">
     <img src="./assets/student2.jpeg" width="300" alt="Logo">
@@ -98,7 +97,12 @@ Integrate student, security, and admin pages with MongoDB to enhance campus secu
     <img src="./assets/student6.jpeg" width="300" alt="Logo">
 </div>
 
-### 🎨 SafeCampus Security
+<br />
+<hr />
+<br />
+
+### 🎨 SafeCampus Security :
+<br />
 <div display="flex">
     <img src="./assets/security1.jpeg" width="300" alt="Logo">
     <img src="./assets/security2.jpeg" width="300" alt="Logo">
