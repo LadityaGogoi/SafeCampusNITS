@@ -16,7 +16,10 @@
   - [backend](#backend)
 - [Tech Stack](#tech-stack)
 - [tools](#tools)
-
+- [UI/UX](#folder-structure)
+  - [SafeCampusStudent UI](#SafeCampusStudentUI)
+  - [SafeCampusSecurity UI](#SafeCampusSecurityUI)
+  - [SafeCampusAdmin UI](#SafeCampusAdminUI)
 </details>
 
 ---
@@ -68,3 +71,41 @@ Integrate student, security, and admin pages with MongoDB to enhance campus secu
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+### 🎨 SafeCampus Admin
+<div style="display: flex;">
+    <img src="./assets/dashboard.png" alt="Logo">
+<h3 align="center" font-family="Manjari">
+  Dashboard for managing Students
+</h3>
+  <hr />
+    <img src="./assets/list.png" alt="Logo">
+<h3 align="center" font-family="Manjari">
+  list of complain, late entry students
+</h3>
+    <img src="./assets/addstudent.png" alt="Logo">
+<h3 align="center" font-family="Manjari">
+  Adding a student
+</h3>
+    <img src="./assets/notice.png" alt="Logo">
+<h3 align="center" font-family="Manjari">
+  Notice Form
+</h3>
+    <img src="./assets/imergency.png" alt="Logo">
+<h3 align="center" font-family="Manjari">
+  Imergency Portal, when somebody seek it
+</h3>
+</div>
+
+<br />
+<br />
+
+### 🎨 SafeCampus Student
+<div display="flex">
+    <img src="./assets/student1.jpeg" width="300" alt="Logo">
+    <img src="./assets/student2.jpeg" width="300" alt="Logo">
+    <img src="./assets/student3.jpeg" width="300" alt="Logo">
+    <img src="./assets/student4.jpeg" width="300" alt="Logo">
+    <img src="./assets/student5.jpeg" width="300" alt="Logo">
+    <img src="./assets/student6.jpeg" width="300" alt="Logo">
+</div>
